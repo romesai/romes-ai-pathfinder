@@ -37,7 +37,7 @@ const WhatWeOffer = () => {
             Finally, An AI That Gets It
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            RomesAI isn't just another chatbot. It's your personal immigration advisor that combines deep legal knowledge with empathy and understanding of the immigrant experience.
+            Romes isn't just another chatbot. It's your personal immigration advisor that combines deep legal knowledge with empathy and understanding of the immigrant experience.
           </p>
         </div>
         
@@ -93,7 +93,7 @@ const WhatWeOffer = () => {
         
         <div className="text-center">
           <Button variant="hero" size="xl">
-            Try RomesAI Free Today
+            Try Romes Free Today
           </Button>
         </div>
       </div>

@@ -24,7 +24,7 @@ const FinalCTA = () => {
           </h2>
           
           <p className="text-xl text-white/90 mb-8 max-w-3xl mx-auto">
-            You've worked too hard to let visa confusion derail your future. Join RomesAI today and get the personalized guidance you deserve from someone who truly understands your journey.
+            You've worked too hard to let visa confusion derail your future. Join Romes today and get the personalized guidance you deserve from someone who truly understands your journey.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">

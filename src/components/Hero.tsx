@@ -27,7 +27,7 @@ const Hero = () => {
             </h1>
             
             <p className="text-xl text-white/90 mb-8 leading-relaxed max-w-xl">
-              Stop feeling lost and stressed about your visa status. RomesAI is your personal AI assistant that understands the immigrant grind and helps you find legal work opportunities, track deadlines, and build your future in the U.S.
+              Stop feeling lost and stressed about your visa status. Romes is your personal AI assistant that understands the immigrant grind and helps you find legal work opportunities, track deadlines, and build your future in the U.S.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 mb-8">
@@ -58,7 +58,7 @@ const Hero = () => {
             <div className="relative z-10">
               <img 
                 src={heroImage} 
-                alt="International students succeeding with RomesAI" 
+                alt="International students succeeding with Romes" 
                 className="w-full h-auto rounded-2xl shadow-strong"
               />
             </div>

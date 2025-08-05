@@ -27,7 +27,7 @@ const HowItWorks = () => {
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-foreground mb-6">
-            How RomesAI Works
+            How Romes Works
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Getting started is simple. In just 3 steps, you'll have a personal AI advisor that understands your unique immigration journey.

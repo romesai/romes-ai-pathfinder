@@ -8,7 +8,7 @@ import { HelpCircle } from "lucide-react";
 
 const faqs = [
   {
-    question: "Is RomesAI really free to use?",
+    question: "Is Romes really free to use?",
     answer: "Yes! We offer a generous free tier that includes basic AI consultations and deadline tracking. Premium features like advanced job matching and unlimited legal consultations are available with our paid plans."
   },
   {
@@ -16,12 +16,12 @@ const faqs = [
     answer: "Our AI is trained on current USCIS regulations and is regularly updated. However, for complex legal situations, we always recommend consulting with a licensed immigration attorney, which we can help you find."
   },
   {
-    question: "Can RomesAI help with visa applications?",
+    question: "Can Romes help with visa applications?",
     answer: "We provide guidance on preparing applications and understanding requirements, but we cannot file applications on your behalf. We'll walk you through the process and connect you with legal professionals when needed."
   },
   {
     question: "What makes this different from generic career advice?",
-    answer: "RomesAI understands the unique challenges of F-1 students - visa restrictions, cultural barriers, and the complexity of U.S. immigration law. Our advice is specifically tailored to international students."
+    answer: "Romes understands the unique challenges of F-1 students - visa restrictions, cultural barriers, and the complexity of U.S. immigration law. Our advice is specifically tailored to international students."
   },
   {
     question: "Is my personal information secure?",
@@ -29,7 +29,7 @@ const faqs = [
   },
   {
     question: "Can I use this if I'm on a different visa type?",
-    answer: "Currently, RomesAI is optimized for F-1 students, but we're expanding to support other visa types like J-1 and H-1B. Contact us if you have specific needs."
+    answer: "Currently, Romes is optimized for F-1 students, but we're expanding to support other visa types like J-1 and H-1B. Contact us if you have specific needs."
   }
 ];
 
@@ -72,10 +72,10 @@ const FAQ = () => {
           <div className="inline-flex items-center gap-4">
             <span className="text-sm text-muted-foreground">Contact us at:</span>
             <a 
-              href="mailto:help@romesai.com" 
+              href="mailto:help@romes.com" 
               className="text-primary hover:text-primary-dark font-medium transition-colors"
             >
-              help@romesai.com
+              help@romes.com
             </a>
           </div>
         </div>

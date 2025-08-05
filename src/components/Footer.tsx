@@ -8,7 +8,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="md:col-span-2">
             <div className="text-3xl font-bold mb-4 bg-gradient-to-r from-accent to-white bg-clip-text text-transparent">
-              RomesAI
+              Romes
             </div>
             <p className="text-background/80 mb-6 max-w-md">
               Empowering F-1 students to navigate their immigration journey with confidence. Built by immigrants, for immigrants.
@@ -36,8 +36,8 @@ const Footer = () => {
             <ul className="space-y-3 text-background/80">
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4" />
-                <a href="mailto:help@romesai.com" className="hover:text-background transition-colors">
-                  help@romesai.com
+                <a href="mailto:help@romes.com" className="hover:text-background transition-colors">
+                  help@romes.com
                 </a>
               </li>
               <li className="flex items-center gap-2">
@@ -51,7 +51,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="border-t border-background/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-background/60 text-sm">
-            © 2024 RomesAI. All rights reserved.
+            © 2024 Romes. All rights reserved.
           </div>
           <div className="flex gap-6 text-background/60 text-sm">
             <a href="#" className="hover:text-background transition-colors">Privacy Policy</a>

@@ -74,7 +74,7 @@ const Features = () => {
             Everything You Need to Succeed
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            RomesAI provides a comprehensive suite of tools designed specifically for F-1 students navigating their career journey in America.
+            Romes provides a comprehensive suite of tools designed specifically for F-1 students navigating their career journey in America.
           </p>
         </div>
         
